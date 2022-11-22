@@ -1,6 +1,6 @@
 This folder contains the Matlab scripts and functions, as well the necessary data files, to implement the parameter
 estimation methods in Gubbins (2022) "Quantifying the relationship between within-host dynamics and transmission
-for viral diseases of livestock"
+for viral diseases"
 
 MATLAB REQUIREMENTS
 The scripts/functions were run using Matlab version 2020b and require the Statistics and Machine Learning and
